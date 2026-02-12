@@ -1,14 +1,15 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://hitesh-kumar-portfolio.vercel.app)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+
+![about](https://github.com/user-attachments/assets/448658d5-8a54-4034-bada-9871261b912e)
+![skills](https://github.com/user-attachments/assets/9a48b4c6-f611-422c-a4ac-4fbf3153289d)
+![experience](https://github.com/user-attachments/assets/24b2b071-9d97-4f4b-acd0-00eb6d00f691)
+![projects](https://github.com/user-attachments/assets/2b1bd7dc-1da8-4af5-b488-c7d96dcc4c07)
+![education](https://github.com/user-attachments/assets/f495dd0a-39b6-4772-950e-67a2c5cdc784)
+![contact](https://github.com/user-attachments/assets/50a50701-24cf-42b0-837b-80e21e22819f)
 
 
 ## Table of Contents
@@ -41,8 +42,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+1. Clone the repository: `git clone https://github.com/Hiteshpan/hitesh-kumar-portfolio.git`
+2. Navigate to the project directory: `cd hitesh-kumar-portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
